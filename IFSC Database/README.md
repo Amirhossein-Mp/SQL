@@ -1,4 +1,4 @@
-This directory is dedicated for queries on IFSC database. You can download the database via this link: https://uupload.ir/view/ifsc_results_7nlw.zip/\
+This directory is dedicated for queries on IFSC database. You can download the database via this link: [IFSC Database](https://uupload.ir/view/ifsc_results_7nlw.zip/\)
 
 Query 1 is for this demand:<br/>
 Find the athlete who has won the most first place finishes in all businesses.<br/>
