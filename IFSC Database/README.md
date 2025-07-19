@@ -8,6 +8,7 @@ Find the athlete who earned the highest qualifying score in each event.<br/>
 
 Query 3 is for this demand:<br/>
 Find the country with the most event championships. <br/>
+
 Query 4 is for this demand:<br/>
 Find all the athletes who have won first place in multiple different disciplines.<br/>
 <br/>
