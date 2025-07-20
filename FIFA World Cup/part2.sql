@@ -1,0 +1,1 @@
+select matchid,year,stage,"Home_Team_Name","Away_Team_Name" from world_cup_matches m where m.year>1935 and m.year<2007 and m.win_conditions<>' '

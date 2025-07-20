@@ -1,0 +1,1 @@
+select m.year,m.stage,m."Home_Team_Name",m."Home_Team_Goals",m."Away_Team_Goals",m."Away_Team_Name" from world_cup_matches m where m."Away_Team_Goals"+m."Home_Team_Goals">5
