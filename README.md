@@ -1,56 +1,65 @@
 # SQL Projects Repository
 
-This repository contains a collection of SQL-based homework assignments completed as part of a university-level **Database Systems** course. Each directory represents a distinct project based on a real-world dataset. The focus is on writing clear, efficient queries to answer specific questions about the data.
+This repository contains structured solutions to various SQL-based homework assignments completed during a university-level **Database Systems** course. Each directory represents a project involving real-world or academic datasets, with `.sql` files answering specific queries or performing data operations.
 
-Each folder includes a `README.md` that documents the purpose of every `.sql` file, specifying which query or problem it addresses.
+Each folder also includes a `README.md` that describes what each `.sql` file does — making it easy to navigate and understand the logic behind the queries.
 
-## 📂 Project Directories
+## 📁 Projects
 
 ### 🧾 Chinook
-Analysis of a digital music store’s operations using the **Chinook** database. Topics include:
-- Sales by country and genre
-- Employee and customer activity
-- Playlist and invoice analytics
+Queries on a music store's database covering:
+- Sales analytics by genre and country
+- Employee/customer performance
+- Invoicing and playlist data
 
 ### 🏆 FIFA World Cup
-Querying data from the **FIFA World Cup**, including:
-- Team and player statistics
-- Match outcomes and goal analysis
-- Historical performance trends
+Analysis of World Cup data, including:
+- Match results and goal stats
+- Team and player performance
+- Tournament history insights
 
 ### ⚾ History of Baseball
-Exploration of **baseball statistics** through:
-- Player achievements
-- Seasonal performance comparisons
-- Team rankings and averages
+Working with baseball history data to:
+- Analyze player records and achievements
+- Compare team stats across seasons
+- Extract league-wide trends
 
 ### 🧗 IFSC Database
-Data from the **International Federation of Sport Climbing**, featuring:
-- Competition results
+Queries on competitive climbing data from the IFSC:
 - Athlete rankings
-- National performance
+- Competition results
+- Nation-based performance
 
 ### 🎬 IMDB
-Working with a subset of the **IMDB** dataset to extract insights such as:
-- Top-rated movies and directors
-- Genre distributions
-- Actor collaborations
+Exploration of film data from the IMDB:
+- Movie ratings and genre patterns
+- Director/actor collaborations
+- Production trends
 
-## 📄 Folder Structure
+### 📚 Library Management
+Simulating a **library system**, this project includes:
+- Managing books, members, and loans
+- Tracking overdue items
+- Querying most borrowed books and active users
 
-Each project folder typically contains:
-- `.sql` files for each query
-- A `README.md` explaining the goal of each query file
+### 🏢 Departments
+A simplified **university departments** database:
+- Faculty and department info
+- Course assignments
+- Relationships between instructors, students, and departments
 
-## 🛠️ Usage
+## 📂 Folder Structure
 
-To run the queries:
-1. Set up the appropriate database (e.g., SQLite, PostgreSQL).
-2. Import the dataset corresponding to the project.
-3. Execute the `.sql` files in your SQL client or command-line interface.
+Each project directory includes:
+- `.sql` files: individual queries and database operations
+- `README.md`: explains the purpose of each query
 
-## 📚 License
+## 🛠️ How to Use
 
-This repository is intended for academic and educational use. Datasets used are either publicly available or distributed for educational purposes.
+1. Choose a project folder.
+2. Load the relevant dataset into your SQL database (e.g., PostgreSQL, MySQL, SQLite).
+3. Run the SQL scripts to execute queries or manipulate the schema/data.
 
----
+## 📄 License
+
+This repository is for educational and academic use. All datasets are publicly available or created for instructional purposes.
