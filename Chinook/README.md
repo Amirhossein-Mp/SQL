@@ -1,4 +1,4 @@
-This directory is dedicated for queries on History of Baseball database. You can download the database via this link: [History of Baseball](https://uupload.ir/view/database_zar2.zip/)
+This directory is dedicated for queries on History of Baseball database. You can download the database via this link: [Chinook](https://uupload.ir/view/chinook_sqlite_6815.zip/)
 
 Query 1 is for this demand:<br/>
 Identify customers who spent more on songs in their favorite genre (the genre they purchased the most) than in other genres. For each of these customers, list their ID, first name, last name, favorite genre, and total spend on that genre. Sort the results by total spend on favorite genre in descending order.<br/>
